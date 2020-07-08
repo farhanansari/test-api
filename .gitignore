@@ -1,0 +1,10 @@
+/vendor/*
+/config/app.php
+/config/bootstrap.php
+/tmp/*
+/logs/*
+/webroot/uploads/peoplecaddie/headshots/*
+!/webroot/uploads/peoplecaddie/headshots/.gitkeep
+/webroot/uploads/peoplecaddie/files/*
+!/webroot/uploads/peoplecaddie/files/.gitkeep
+nbproject/*
